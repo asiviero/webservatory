@@ -1,0 +1,66 @@
+1 - Tweets com muitas hashtags tiveram menos ocorrencias
+--------------------------------------------------------
+'#aprendizlegal'	 '#mudabrasil'
+'#aprendizlegal'	 '#tamojunto'
+'#aprendizlegal'	 '#curso'
+'#aprendizlegal'	 '#cartaz'
+'#aprendizlegal'	 '#ciee'
+
+'#burguesiafedida'	 '#mundodeoz'
+'#burguesiafedida'	 '#facista'
+'#burguesiafedida'	 '#vandalismo'
+'#burguesiafedida'	 '#fato'
+'#burguesiafedida'	 '#ogiganteacordou'
+
+'#calor'	 '#sol'
+'#calor'	 '#domingao'
+'#calor'	 '#curti'
+'#calor'	 '#bomdia'
+
+'#comemorar'	 '#grita'
+'#comemorar'	 '#vembrasil'
+'#comemorar'	 '#cerpa'
+'#comemorar'	 '#glacial'
+'#comemorar'	 '#vemprobar'
+'#comemorar'	 '#brasil'
+
+Tendencia: excesso de hashtags prejudica sua viralizacao
+
+2 - Tweets relacionados à Copa das Confederacoes
+-----------------------------------------------------------
+'#copa'	 '#brasil'	32 x '#copapraquem'	 '#changebrazil'	19
+'#fodaseafifa'	 '#fodaseacopa'	17 x '#fifa'	 '#copa'	25
+'#forafifa'	 '#changebrazil'	100
+'#forafifa'	 '#foradilma'	99
+'#forafifa'	 '#ogiganteacordou'	89
+
+Tendencia: hashtags menos/mais "acaloradas" ocorrem juntas com mais frequencia. Hashtags mais acaloradas geralmente possuem mais de um "alvo"
+
+3 - Tweets agressivos
+----------------------------------------------------------
+'#foraptecomparsas'	 '#lulaocancerdobrasil'	1
+'#foraptralhada'	 '#chupadima'	2
+'#forarenan'	 '#chupadilma'	2
+'#fuckthepolice'	 '#ogiganteacordou'	1
+'#fuckublatter'	 '#fckufifa'	1
+
+Tendencia: tweets com hashtags agressivas nao conseguem propagar
+
+4 - Tweets populares
+----------------------------------------------------------
+'#ogiganteacordou'	 '#changebrazil'	788
+'#fazerocerto'	 '#dt'	703
+'#protestosbr'	 '#vaibrasil'	567
+'#vaibrasil'	 '#construirumpais'	559
+'#protestosbr'	 '#construirumpais'	558
+5 maiores: neutras politicamente
+Hashtags que encontram menos atrito ao propagar-se
+
+5 - Hashtags semelhantes
+---------------------------------------------------------
+'#mudabrasil'	 '#changebrazil'	386
+'#brasilacordou'	 '#ogiganteacordou'	306
+'#ogiganteacordou'	 '#acordabrasil'	167
+'#mudabrasil'	 '#acordabrasil'	114
+'#brazil'	 '#changebrazil'	96
+Tendencia de tweets semelhantes se propagarem juntos
